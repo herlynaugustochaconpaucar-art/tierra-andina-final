@@ -1,0 +1,173 @@
+[
+  {
+    "vendedor": "ALLPANCHIS",
+    "proyecto": "PROYECTO SANTA ROSA",
+    "ubicacion": "Anta",
+    "area_m2": 120,
+    "precio_venta": 15000,
+    "whatsapp": "51900227982",
+    "ubicacion_google": "LINK_AQUI",
+    "archivo_pdf": "LOTIZACION SANTA ROSA.pdf",
+    "imagen_plano": "plano_santarosa.png",
+    "plano_url": "plano_santarosa.png",
+    "disponibles": 8,
+    "lotes": [
+      {
+        "area_m2": 120,
+        "precio_venta": 15000
+      },
+      {
+        "area_m2": 120,
+        "precio_venta": 15000
+      },
+      {
+        "area_m2": 120,
+        "precio_venta": 15000
+      },
+      {
+        "area_m2": 120,
+        "precio_venta": 15000
+      },
+      {
+        "area_m2": 120,
+        "precio_venta": 15000
+      },
+      {
+        "area_m2": 120,
+        "precio_venta": 15000
+      },
+      {
+        "area_m2": 165,
+        "precio_venta": 15000
+      },
+      {
+        "area_m2": 130,
+        "precio_venta": 15000
+      }
+    ]
+  },
+  {
+    "vendedor": "GRUPO URBAN INMOBILIARIA",
+    "proyecto": "PROYECTO FLOR DEL VALLE",
+    "ubicacion": "Anta",
+    "area_m2": 120,
+    "precio_venta": 28000,
+    "whatsapp": "51900227982",
+    "ubicacion_google": "LINK_AQUI",
+    "archivo_pdf": "FLOR_DEL_VALLE.pdf",
+    "imagen_plano": "plano_flor.png",
+    "plano_url": "plano_flor.png",
+    "disponibles": 4,
+    "lotes": [
+      {
+        "area_m2": 120,
+        "precio_venta": 28000
+      },
+      {
+        "area_m2": 150,
+        "precio_venta": 35000
+      },
+      {
+        "area_m2": 150,
+        "precio_venta": 35000
+      },
+      {
+        "area_m2": 150,
+        "precio_venta": 35000
+      }
+    ]
+  },
+  {
+    "vendedor": "GRUPO URBAN INMOBILIARIA",
+    "proyecto": "PROYECTO OASIS URBAN",
+    "ubicacion": "Anta",
+    "area_m2": 150,
+    "precio_venta": 28000,
+    "whatsapp": "51900227982",
+    "ubicacion_google": "LINK_AQUI",
+    "archivo_pdf": "OASIS URBAN.pdf",
+    "imagen_plano": "plano_oasis.png",
+    "plano_url": "plano_oasis.png",
+    "disponibles": 1,
+    "lotes": [
+      {
+        "area_m2": 150,
+        "precio_venta": 28000
+      }
+    ]
+  },
+  {
+    "vendedor": "GRUPO URBAN INMOBILIARIA",
+    "proyecto": "PROYECTO LA COLINA",
+    "ubicacion": "Anta",
+    "area_m2": 125,
+    "precio_venta": 35000,
+    "whatsapp": "51900227982",
+    "ubicacion_google": "LINK_AQUI",
+    "archivo_pdf": "lacolina.pdf",
+    "imagen_plano": "plano_colina.png",
+    "plano_url": "plano_colina.png",
+    "disponibles": 0,
+    "lotes": []
+  },
+  {
+    "vendedor": "GRUPO URBAN INMOBILIARIA",
+    "proyecto": "PROYECTO LLANURA DEL ALBA",
+    "ubicacion": "Anta",
+    "area_m2": 120,
+    "precio_venta": 40000,
+    "whatsapp": "51900227982",
+    "ubicacion_google": "LINK_AQUI",
+    "archivo_pdf": "LLANURA DEL ALBA.pdf",
+    "imagen_plano": "plano_alba.png",
+    "plano_url": "plano_alba.png",
+    "disponibles": 0,
+    "lotes": []
+  },
+  {
+    "vendedor": "GRUPO URBAN INMOBILIARIA",
+    "proyecto": "PROYECTO CUMBRES DEL SOL",
+    "ubicacion": "Anta",
+    "area_m2": 292,
+    "precio_venta": 45000,
+    "whatsapp": "51900227982",
+    "ubicacion_google": "LINK_AQUI",
+    "archivo_pdf": "CUMBRES DEL SOL NUEVO.pdf",
+    "imagen_plano": "plano_cumbres.png",
+    "plano_url": "plano_cumbres.png",
+    "disponibles": 0,
+    "lotes": []
+  },
+  {
+    "vendedor": "INMOBILIARIA INKILL",
+    "proyecto": "PROYECTO LLANURA DEL ALBA",
+    "ubicacion": "Anta",
+    "area_m2": 120,
+    "precio_venta": 28000,
+    "whatsapp": "51900000000",
+    "ubicacion_google": "LINK_AQUI",
+    "archivo_pdf": "LLANURA DEL ALBA.pdf",
+    "imagen_plano": "",
+    "plano_url": "",
+    "disponibles": 17,
+    "lotes": [
+      {"area_m2": 171, "precio_venta": 33000},
+      {"area_m2": 120, "precio_venta": 28000},
+      {"area_m2": 120, "precio_venta": 28000},
+      {"area_m2": 120, "precio_venta": 28000},
+      {"area_m2": 120, "precio_venta": 28000},
+      {"area_m2": 120, "precio_venta": 28000},
+      {"area_m2": 120, "precio_venta": 33000},
+      {"area_m2": 134, "precio_venta": 35000},
+      {"area_m2": 120, "precio_venta": 33000},
+      {"area_m2": 120, "precio_venta": 35000},
+      {"area_m2": 200, "precio_venta": 40000},
+      {"area_m2": 200, "precio_venta": 40000},
+      {"area_m2": 200, "precio_venta": 40000},
+      {"area_m2": 200, "precio_venta": 40000},
+      {"area_m2": 200, "precio_venta": 40000},
+      {"area_m2": 200, "precio_venta": 40000},
+      {"area_m2": 183, "precio_venta": 40000}
+    ]
+  }
+]

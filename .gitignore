@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+.venv/
+env/
+.env
+*.egg-info/
+.eggs/
+
+# Solo desarrollo local (la app en la nube NO usa estos)
+debug_pdf_texto.py
+extraer_lotes_pdf.py
+DATOS_LOTES.md
+santa_rosa_extraido.txt
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,8 @@
+# Tema: claro y paleta Tierra Andina (evita buscador plomo/negro)
+[theme]
+base = "light"
+primaryColor = "#137547"
+backgroundColor = "#f3f4f6"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#054a29"
+font = "sans serif"
